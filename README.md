@@ -1,7 +1,7 @@
 # Jarvis-Server
 Files associated with my 'Jarvis Server' NAS build
 
-Youtube Video for more info: 
+Youtube Video for more info: https://youtu.be/E4W5FzgG85Y
 
 Webiste! https://www.snrtechbytes.com
 
